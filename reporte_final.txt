@@ -1,0 +1,112 @@
+================================================================
+   SISTEMA INTEGRAL DE GESTION AMBIENTAL (SIGP-AIRE v2.0)   
+   Reporte de Monitoreo y Alertas Preventivas               
+================================================================
+
+ZONA MONITOREADA: Cotocollao
+----------------------------------------------------------------
+DATOS ACTUALES (2026-01-12):
+  PM2.5: 28.50 | CO2: 422.1 | Temp: 18.2 C | Viento: 7.5 km/h
+
+ANALISIS PREDICTIVO (Proximas 24 horas):
+  Promedio Historico (30 dias): 23.06 ug/m3
+  Nivel Predicho Ponderado:     26.47 ug/m3
+
+ESTADO Y RECOMENDACIONES:
+  [!] ALERTA PREVENTIVA ACTIVADA: Nivel excede norma OMS (15.0 ug/m3)
+  MEDIDAS DE MITIGACION INMEDIATA:
+   1. SOCIAL (Salud Publica): Uso obligatorio de mascarillas en grupos vulnerables (niños/tercera edad).
+      - Suspender actividades fisicas escolares al aire libre.
+   2. CULTURAL/URBANO: Fomentar teletrabajo para reducir movilidad.
+      - Evitar uso de vehiculo privado (compartir auto o usar transporte publico).
+   3. AMBIENTAL: Prohibicion estricta de quema de basura o maleza en la zona.
+      - Riego de calles principales para asentar particulas de polvo.
+   4. GLOBAL: Notificar a entes de control para evaluacion de huella de carbono industrial.
+
+________________________________________________________________
+
+ZONA MONITOREADA: Carapungo
+----------------------------------------------------------------
+DATOS ACTUALES (2026-01-12):
+  PM2.5: 16.50 | CO2: 398.8 | Temp: 20.1 C | Viento: 15.8 km/h
+
+ANALISIS PREDICTIVO (Proximas 24 horas):
+  Promedio Historico (30 dias): 14.48 ug/m3
+  Nivel Predicho Ponderado:     15.73 ug/m3
+
+ESTADO Y RECOMENDACIONES:
+  [!] ALERTA PREVENTIVA ACTIVADA: Nivel excede norma OMS (15.0 ug/m3)
+  MEDIDAS DE MITIGACION INMEDIATA:
+   1. SOCIAL (Salud Publica): Uso obligatorio de mascarillas en grupos vulnerables (niños/tercera edad).
+      - Suspender actividades fisicas escolares al aire libre.
+   2. CULTURAL/URBANO: Fomentar teletrabajo para reducir movilidad.
+      - Evitar uso de vehiculo privado (compartir auto o usar transporte publico).
+   3. AMBIENTAL: Prohibicion estricta de quema de basura o maleza en la zona.
+      - Riego de calles principales para asentar particulas de polvo.
+   4. GLOBAL: Notificar a entes de control para evaluacion de huella de carbono industrial.
+
+________________________________________________________________
+
+ZONA MONITOREADA: Belisario
+----------------------------------------------------------------
+DATOS ACTUALES (2026-01-12):
+  PM2.5: 40.50 | CO2: 462.1 | Temp: 15.8 C | Viento: 4.1 km/h
+
+ANALISIS PREDICTIVO (Proximas 24 horas):
+  Promedio Historico (30 dias): 35.34 ug/m3
+  Nivel Predicho Ponderado:     44.61 ug/m3
+
+ESTADO Y RECOMENDACIONES:
+  [!] ALERTA PREVENTIVA ACTIVADA: Nivel excede norma OMS (15.0 ug/m3)
+  MEDIDAS DE MITIGACION INMEDIATA:
+   1. SOCIAL (Salud Publica): Uso obligatorio de mascarillas en grupos vulnerables (niños/tercera edad).
+      - Suspender actividades fisicas escolares al aire libre.
+   2. CULTURAL/URBANO: Fomentar teletrabajo para reducir movilidad.
+      - Evitar uso de vehiculo privado (compartir auto o usar transporte publico).
+   3. AMBIENTAL: Prohibicion estricta de quema de basura o maleza en la zona.
+      - Riego de calles principales para asentar particulas de polvo.
+   4. GLOBAL: Notificar a entes de control para evaluacion de huella de carbono industrial.
+
+________________________________________________________________
+
+ZONA MONITOREADA: Condado
+----------------------------------------------------------------
+DATOS ACTUALES (2026-01-12):
+  PM2.5: 45.60 | CO2: 492.1 | Temp: 14.5 C | Viento: 3.8 km/h
+
+ANALISIS PREDICTIVO (Proximas 24 horas):
+  Promedio Historico (30 dias): 40.42 ug/m3
+  Nivel Predicho Ponderado:     52.74 ug/m3
+
+ESTADO Y RECOMENDACIONES:
+  [!] ALERTA PREVENTIVA ACTIVADA: Nivel excede norma OMS (15.0 ug/m3)
+  MEDIDAS DE MITIGACION INMEDIATA:
+   1. SOCIAL (Salud Publica): Uso obligatorio de mascarillas en grupos vulnerables (niños/tercera edad).
+      - Suspender actividades fisicas escolares al aire libre.
+   2. CULTURAL/URBANO: Fomentar teletrabajo para reducir movilidad.
+      - Evitar uso de vehiculo privado (compartir auto o usar transporte publico).
+   3. AMBIENTAL: Prohibicion estricta de quema de basura o maleza en la zona.
+      - Riego de calles principales para asentar particulas de polvo.
+   4. GLOBAL: Notificar a entes de control para evaluacion de huella de carbono industrial.
+
+________________________________________________________________
+
+ZONA MONITOREADA: San Antonio
+----------------------------------------------------------------
+DATOS ACTUALES (2026-01-12):
+  PM2.5: 13.40 | CO2: 384.2 | Temp: 23.0 C | Viento: 22.1 km/h
+
+ANALISIS PREDICTIVO (Proximas 24 horas):
+  Promedio Historico (30 dias): 11.82 ug/m3
+  Nivel Predicho Ponderado:     12.62 ug/m3
+
+ESTADO Y RECOMENDACIONES:
+  [!] PRECAUCION: Niveles cercanos al limite (Zona de Riesgo).
+  RECOMENDACIONES:
+   - SOCIAL: Personas asmaticas deben limitar exposicion prolongada.
+   - CULTURAL: Uso racional del automovil (Revision de gases).
+
+________________________________________________________________
+
+Nota Tecnica: Limite OMS establecido en 15.0 ug/m3 para PM2.5 (24h).
+Analisis generado automaticamente considerando factores meteorologicos.
